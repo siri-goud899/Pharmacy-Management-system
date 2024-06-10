@@ -1,0 +1,4 @@
+PHARMACY MANAGEMENT SYSTEM
+
+This includes the medicines and its prices ,quantity and its category 
+Also it inlcudes in adding and deleting the items of the medicines and it also displays the data of the previous medicine details too.
